@@ -7,7 +7,7 @@ using GLRT;
 namespace UnitTestsCS
 {
     [TestClass]
-    public class UnitTest1
+    public class UnitTestCS
     {
         [TestMethod]
         public void TestMethod1()
